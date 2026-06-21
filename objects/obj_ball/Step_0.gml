@@ -1,0 +1,1 @@
+global.vel_bola = hspeed;
