@@ -8,7 +8,6 @@
   "instanceCreationOrder":[
     {"name":"inst_BF22F44","path":"rooms/rm_partida/rm_partida.yy",},
     {"name":"inst_44DC2871","path":"rooms/rm_partida/rm_partida.yy",},
-    {"name":"inst_6BE5A6F9","path":"rooms/rm_partida/rm_partida.yy",},
     {"name":"inst_3D4A6B77","path":"rooms/rm_partida/rm_partida.yy",},
     {"name":"inst_45A0AD94","path":"rooms/rm_partida/rm_partida.yy",},
     {"name":"inst_5FD3CEF6","path":"rooms/rm_partida/rm_partida.yy",},
@@ -16,11 +15,12 @@
     {"name":"inst_F3A9394","path":"rooms/rm_partida/rm_partida.yy",},
     {"name":"inst_7E80A039","path":"rooms/rm_partida/rm_partida.yy",},
     {"name":"inst_4C3B2C49","path":"rooms/rm_partida/rm_partida.yy",},
+    {"name":"inst_78EFBB1D","path":"rooms/rm_partida/rm_partida.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Ball","depth":0,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_6BE5A6F9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6BE5A6F9","objectId":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.8333333,"scaleY":0.8333333,"x":320.0,"y":176.0,},
+        {"$GMRInstance":"v4","%Name":"inst_78EFBB1D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_78EFBB1D","objectId":{"name":"obj_new_ball","path":"objects/obj_new_ball/obj_new_ball.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":176.0,},
       ],"layers":[],"name":"Ball","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Obj_Colision","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_3D4A6B77","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3D4A6B77","objectId":{"name":"obj_colision01","path":"objects/obj_colision01/obj_colision01.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":4.5,"x":176.0,"y":176.0,},

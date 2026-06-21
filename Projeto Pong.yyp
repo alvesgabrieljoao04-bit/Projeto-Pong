@@ -41,6 +41,7 @@
     {"id":{"name":"obj_colision01","path":"objects/obj_colision01/obj_colision01.yy",},},
     {"id":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},},
     {"id":{"name":"obj_modo_de_jogo","path":"objects/obj_modo_de_jogo/obj_modo_de_jogo.yy",},},
+    {"id":{"name":"obj_new_ball","path":"objects/obj_new_ball/obj_new_ball.yy",},},
     {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},},
     {"id":{"name":"obj_raquete_ia","path":"objects/obj_raquete_ia/obj_raquete_ia.yy",},},
     {"id":{"name":"obj_raquete2","path":"objects/obj_raquete2/obj_raquete2.yy",},},
